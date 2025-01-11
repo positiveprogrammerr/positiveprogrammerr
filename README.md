@@ -1,4 +1,4 @@
-# Assalom alaykum! 👋
+# Assalam alaykum! 👋
 Welcome to my GitHub profile! I'm Abdulbosit, a passionate programmerr who loves coding.
 
 ## 🌟 About Me
