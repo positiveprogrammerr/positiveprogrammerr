@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Abdulbosit, a passionate programmerr who loves
 - 📫 How to reach me: acunnatov@gmail.com
 
 ## 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?positiveprogrammerr&show_icons=true&theme=radical)
+![Abdulbosit's GitHub stats](https://github-readme-stats.vercel.app/api?username=positiveprogrammerr&show_icons=true&theme=radical)
 
 ## 🛠️ Skills
 - Programming: Python, JavaScript, etc.
