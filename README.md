@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
+Welcome to my GitHub profile! I'm Abdulbosit, a passionate programmerr who loves coding.
 
-<!--
-**positiveprogrammerr/positiveprogrammerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🔭 I’m currently working on myself.
+- 🌱 I’m learning: Data science
+- 💬 Ask me about: don't know yet
+- 📫 How to reach me: acunnatov@gmail.com
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?positiveprogrammerr&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, JavaScript, etc.
+- Frameworks: Node.js, MongoDB etc.
+- Tools: SQL, Docker, Git, etc.
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbosit-sunnatov-904420263/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://portfolio-wgdi.vercel.app/)
